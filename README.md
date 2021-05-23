@@ -2,7 +2,7 @@
 
 ## Lista Doblemente Enlazada
 
-![Lista](src/lista.png)
+![Lista](src/lista.PNG)
 
 En esta ocacion en este repositorio de Github podras encontrar una ejemplo de como realizar la estructura de una lista Doblemente enlazada esto hecho en el leguaje de C++ y en la cual hemos agregado las siguiente funciones
 
