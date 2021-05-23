@@ -21,9 +21,9 @@ En esta ocacion en este repositorio de Github podras encontrar una ejemplo de co
 
 Aca podras encontrar los videos tutoriales de la explicacion del codigo que hemos realizado, la cual la hemos divido en dos partes y subido a nuestro canal de Youtube
 
-[Parte 1](https://www.youtube.com/watch?v=HEf7SWtAOaE&t=1182s)
+[Parte 1](https://www.youtube.com/watch?v=3ABJMP-m1ys&t=1153s)
 
-[Parte 2](https://www.youtube.com/watch?v=xJinJyRHaM8&t=96s)
+[Parte 2](https://www.youtube.com/watch?v=3xJlKF6tJgk&t=892s)
 
 ---
 ### Serie de Estructura de Datos
